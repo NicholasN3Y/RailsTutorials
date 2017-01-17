@@ -3853,3 +3853,353 @@ I, [2017-01-16T06:49:39.264168 #11451]  INFO -- : worker=0 ready
 137.132.228.33 - - [16/Jan/2017:06:50:41 -0500] "GET / HTTP/1.0" 304 - 0.0886
 137.132.228.33 - - [16/Jan/2017:06:51:22 -0500] "GET / HTTP/1.0" 200 - 0.7685
 137.132.228.33 - - [16/Jan/2017:06:51:28 -0500] "GET / HTTP/1.0" 304 - 0.1387
+137.132.228.29 - - [16/Jan/2017:07:37:35 -0500] "GET / HTTP/1.0" 304 - 0.0726
+137.132.228.29 - - [16/Jan/2017:07:37:44 -0500] "GET /static_pages HTTP/1.0" 404 22031 0.2882
+137.132.228.29 - - [16/Jan/2017:07:37:54 -0500] "GET /static_pages/home HTTP/1.0" 200 - 1.3673
+137.132.228.29 - - [16/Jan/2017:07:37:54 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 200 31 0.0275
+137.132.228.29 - - [16/Jan/2017:07:37:54 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 200 - 0.0490
+137.132.228.29 - - [16/Jan/2017:07:39:02 -0500] "GET /static_pages/help HTTP/1.0" 200 - 0.0914
+88.150.201.59 - - [16/Jan/2017:07:44:37 -0500] "GET / HTTP/1.0" 200 - 0.0281
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.1022
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0732
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0098
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0178
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0100
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0157
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0103
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0150
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0129
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0138
+137.132.228.29 - - [16/Jan/2017:07:54:26 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0161
+137.132.228.29 - - [16/Jan/2017:07:54:34 -0500] "GET /static_pages/help HTTP/1.0" 200 - 0.1590
+185.110.132.231 - - [16/Jan/2017:08:12:13 -0500] "GET / HTTP/1.0" 200 - 0.0185
+219.85.62.148 - - [16/Jan/2017:08:26:38 -0500] "GET / HTTP/1.0" 200 - 0.0375
+181.169.61.66 - - [16/Jan/2017:08:48:21 -0500] "GET / HTTP/1.0" 200 - 0.0302
+181.169.61.66 - - [16/Jan/2017:08:48:24 -0500] "GET / HTTP/1.0" 200 - 0.0181
+1.34.133.28 - - [16/Jan/2017:10:09:22 -0500] "GET / HTTP/1.0" 200 - 0.0311
+23.247.27.3 - - [16/Jan/2017:10:51:26 -0500] "GET / HTTP/1.0" 200 - 0.0291
+180.76.15.15 - - [16/Jan/2017:11:20:03 -0500] "GET / HTTP/1.0" 200 - 0.0429
+180.167.76.235 - - [16/Jan/2017:11:39:42 -0500] "HEAD / HTTP/1.0" 200 - 0.0265
+23.252.199.69 - - [16/Jan/2017:12:39:28 -0500] "GET / HTTP/1.0" 200 - 0.0257
+192.3.183.10 - - [16/Jan/2017:13:11:16 -0500] "GET / HTTP/1.0" 200 - 0.0347
+136.243.65.78 - - [16/Jan/2017:13:11:22 -0500] "GET / HTTP/1.0" 200 - 0.0282
+172.23.99.187, 137.132.3.12 - - [16/Jan/2017:19:57:47 -0500] "GET / HTTP/1.0" 304 - 0.0273
+189.216.197.228 - - [16/Jan/2017:21:25:19 -0500] "GET / HTTP/1.0" 200 - 0.0336
+149.35.40.191 - - [16/Jan/2017:22:39:59 -0500] "GET / HTTP/1.0" 200 - 0.0358
+94.139.37.15 - - [16/Jan/2017:23:05:06 -0500] "GET / HTTP/1.0" 200 - 0.0141
+74.118.195.145 - - [16/Jan/2017:23:16:38 -0500] "GET / HTTP/1.0" 200 - 0.0206
+54.171.252.178 - - [17/Jan/2017:01:12:24 -0500] "GET / HTTP/1.0" 200 - 0.0400
+220.181.108.175 - - [17/Jan/2017:02:31:06 -0500] "GET / HTTP/1.0" 200 - 0.0162
+123.125.67.220 - - [17/Jan/2017:02:31:18 -0500] "GET /robots.txt HTTP/1.0" 200 202 0.0215
+E, [2017-01-17T03:37:47.625792 #1235] ERROR -- : reaped #<Process::Status: pid 3312 SIGKILL (signal 9)> worker=1
+I, [2017-01-17T03:37:47.635855 #1235]  INFO -- : worker=1 spawning...
+I, [2017-01-17T03:37:47.651851 #18095]  INFO -- : worker=1 spawned pid=18095
+I, [2017-01-17T03:37:47.652302 #18095]  INFO -- : worker=1 ready
+E, [2017-01-17T03:46:24.282353 #1235] ERROR -- : reaped #<Process::Status: pid 11451 SIGKILL (signal 9)> worker=0
+I, [2017-01-17T03:46:24.288083 #1235]  INFO -- : worker=0 spawning...
+I, [2017-01-17T03:46:24.321212 #18258]  INFO -- : worker=0 spawned pid=18258
+I, [2017-01-17T03:46:24.321628 #18258]  INFO -- : worker=0 ready
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:15:33 -0500] "GET /static_pages/about HTTP/1.0" 200 - 0.9661
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:16:07 -0500] "GET /static_pages/about HTTP/1.0" 200 - 0.8501
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:16:07 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0359
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:16:07 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0160
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:16:07 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0114
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:16:07 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0087
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:16:07 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0093
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:16:07 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0179
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:16:07 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0116
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:16:07 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0089
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:16:07 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0057
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:16:07 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0089
+E, [2017-01-17T04:25:26.498189 #1235] ERROR -- : reaped #<Process::Status: pid 18258 SIGKILL (signal 9)> worker=0
+I, [2017-01-17T04:25:26.502633 #1235]  INFO -- : worker=0 spawning...
+I, [2017-01-17T04:25:26.512834 #18650]  INFO -- : worker=0 spawned pid=18650
+I, [2017-01-17T04:25:26.513385 #18650]  INFO -- : worker=0 ready
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:31:23 -0500] "GET /static_pages/about HTTP/1.0" 200 - 0.0817
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:45:34 -0500] "GET /static_pages/about HTTP/1.0" 200 - 0.0206
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:45:36 -0500] "GET /static_pages/about HTTP/1.0" 304 - 0.9409
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:04:45:39 -0500] "GET /static_pages HTTP/1.0" 404 22368 0.1535
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:04:45:43 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.0353
+I, [2017-01-17T05:17:30.973304 #1235]  INFO -- : reaped #<Process::Status: pid 18095 exit 0> worker=1
+I, [2017-01-17T05:17:30.974074 #1235]  INFO -- : reaped #<Process::Status: pid 18650 exit 0> worker=0
+I, [2017-01-17T05:17:30.974292 #1235]  INFO -- : master complete
+I, [2017-01-17T05:20:36.404889 #1115]  INFO -- : Refreshing Gem list
+I, [2017-01-17T05:20:38.497667 #1115]  INFO -- : unlinking existing socket=/home/webapp/rails_app/shared/sockets/unicorn.sock
+I, [2017-01-17T05:20:38.497979 #1115]  INFO -- : listening on addr=/home/webapp/rails_app/shared/sockets/unicorn.sock fd=13
+I, [2017-01-17T05:20:38.498148 #1115]  INFO -- : worker=0 spawning...
+I, [2017-01-17T05:20:38.499663 #1115]  INFO -- : worker=1 spawning...
+I, [2017-01-17T05:20:38.500812 #1124]  INFO -- : worker=0 spawned pid=1124
+I, [2017-01-17T05:20:38.500961 #1124]  INFO -- : worker=0 ready
+I, [2017-01-17T05:20:38.502436 #1115]  INFO -- : master process ready
+I, [2017-01-17T05:20:38.509184 #1127]  INFO -- : worker=1 spawned pid=1127
+I, [2017-01-17T05:20:38.509361 #1127]  INFO -- : worker=1 ready
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:05:26:14 -0500] "GET / HTTP/1.0" 500 72658 0.5179
+E, [2017-01-17T05:26:14.421995 #1124] ERROR -- : app error: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) (Mysql2::Error)
+E, [2017-01-17T05:26:14.422052 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/mysql2-0.4.5/lib/mysql2/client.rb:89:in `connect'
+E, [2017-01-17T05:26:14.422082 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/mysql2-0.4.5/lib/mysql2/client.rb:89:in `initialize'
+E, [2017-01-17T05:26:14.422129 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/mysql2_adapter.rb:25:in `new'
+E, [2017-01-17T05:26:14.422154 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/mysql2_adapter.rb:25:in `mysql2_connection'
+E, [2017-01-17T05:26:14.422196 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:721:in `new_connection'
+E, [2017-01-17T05:26:14.422226 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:765:in `checkout_new_connection'
+E, [2017-01-17T05:26:14.422274 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:744:in `try_to_checkout_new_connection'
+E, [2017-01-17T05:26:14.422301 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:705:in `acquire_connection'
+E, [2017-01-17T05:26:14.422325 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:501:in `checkout'
+E, [2017-01-17T05:26:14.422348 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:364:in `connection'
+E, [2017-01-17T05:26:14.422401 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:875:in `retrieve_connection'
+E, [2017-01-17T05:26:14.422427 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_handling.rb:128:in `retrieve_connection'
+E, [2017-01-17T05:26:14.422450 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_handling.rb:91:in `connection'
+E, [2017-01-17T05:26:14.422474 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/query_cache.rb:47:in `block in install_executor_hooks'
+E, [2017-01-17T05:26:14.422497 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:396:in `instance_exec'
+E, [2017-01-17T05:26:14.422520 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:396:in `block in make_lambda'
+E, [2017-01-17T05:26:14.422543 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:169:in `block (2 levels) in halting'
+E, [2017-01-17T05:26:14.422566 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:547:in `block (2 levels) in default_terminator'
+E, [2017-01-17T05:26:14.422589 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:546:in `catch'
+E, [2017-01-17T05:26:14.422612 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:546:in `block in default_terminator'
+E, [2017-01-17T05:26:14.422634 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:170:in `block in halting'
+E, [2017-01-17T05:26:14.422657 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `block in call'
+E, [2017-01-17T05:26:14.422680 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `each'
+E, [2017-01-17T05:26:14.422703 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `call'
+E, [2017-01-17T05:26:14.422726 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:101:in `__run_callbacks__'
+E, [2017-01-17T05:26:14.422748 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:750:in `_run_complete_callbacks'
+E, [2017-01-17T05:26:14.422771 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:90:in `run_callbacks'
+E, [2017-01-17T05:26:14.422816 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:107:in `complete!'
+E, [2017-01-17T05:26:14.422865 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/executor.rb:13:in `block in call'
+E, [2017-01-17T05:26:14.422909 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/body_proxy.rb:23:in `close'
+E, [2017-01-17T05:26:14.422953 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/body_proxy.rb:21:in `close'
+E, [2017-01-17T05:26:14.422993 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/lint.rb:748:in `close'
+E, [2017-01-17T05:26:14.423022 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/body_proxy.rb:21:in `close'
+E, [2017-01-17T05:26:14.423047 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:576:in `process_client'
+E, [2017-01-17T05:26:14.423071 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2017-01-17T05:26:14.423094 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2017-01-17T05:26:14.423118 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:132:in `start'
+E, [2017-01-17T05:26:14.423141 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/bin/unicorn:126:in `<top (required)>'
+E, [2017-01-17T05:26:14.423196 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/unicorn:23:in `load'
+E, [2017-01-17T05:26:14.423220 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/unicorn:23:in `<main>'
+E, [2017-01-17T05:26:14.423243 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/ruby_executable_hooks:15:in `eval'
+E, [2017-01-17T05:26:14.423265 #1124] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/ruby_executable_hooks:15:in `<main>'
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:05:26:19 -0500] "GET /static_pages/home HTTP/1.0" 500 72658 0.7711
+E, [2017-01-17T05:26:19.767921 #1127] ERROR -- : app error: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) (Mysql2::Error)
+E, [2017-01-17T05:26:19.767971 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/mysql2-0.4.5/lib/mysql2/client.rb:89:in `connect'
+E, [2017-01-17T05:26:19.767999 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/mysql2-0.4.5/lib/mysql2/client.rb:89:in `initialize'
+E, [2017-01-17T05:26:19.768024 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/mysql2_adapter.rb:25:in `new'
+E, [2017-01-17T05:26:19.768047 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/mysql2_adapter.rb:25:in `mysql2_connection'
+E, [2017-01-17T05:26:19.768070 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:721:in `new_connection'
+E, [2017-01-17T05:26:19.768093 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:765:in `checkout_new_connection'
+E, [2017-01-17T05:26:19.768117 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:744:in `try_to_checkout_new_connection'
+E, [2017-01-17T05:26:19.768139 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:705:in `acquire_connection'
+E, [2017-01-17T05:26:19.768162 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:501:in `checkout'
+E, [2017-01-17T05:26:19.768239 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:364:in `connection'
+E, [2017-01-17T05:26:19.768271 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:875:in `retrieve_connection'
+E, [2017-01-17T05:26:19.768295 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_handling.rb:128:in `retrieve_connection'
+E, [2017-01-17T05:26:19.768319 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_handling.rb:91:in `connection'
+E, [2017-01-17T05:26:19.768342 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/query_cache.rb:47:in `block in install_executor_hooks'
+E, [2017-01-17T05:26:19.768365 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:396:in `instance_exec'
+E, [2017-01-17T05:26:19.768387 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:396:in `block in make_lambda'
+E, [2017-01-17T05:26:19.768433 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:169:in `block (2 levels) in halting'
+E, [2017-01-17T05:26:19.768458 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:547:in `block (2 levels) in default_terminator'
+E, [2017-01-17T05:26:19.768480 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:546:in `catch'
+E, [2017-01-17T05:26:19.768503 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:546:in `block in default_terminator'
+E, [2017-01-17T05:26:19.768525 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:170:in `block in halting'
+E, [2017-01-17T05:26:19.768548 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `block in call'
+E, [2017-01-17T05:26:19.768571 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `each'
+E, [2017-01-17T05:26:19.768593 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `call'
+E, [2017-01-17T05:26:19.768615 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:101:in `__run_callbacks__'
+E, [2017-01-17T05:26:19.768667 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:750:in `_run_complete_callbacks'
+E, [2017-01-17T05:26:19.768694 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:90:in `run_callbacks'
+E, [2017-01-17T05:26:19.768718 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:107:in `complete!'
+E, [2017-01-17T05:26:19.768742 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/executor.rb:13:in `block in call'
+E, [2017-01-17T05:26:19.768764 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/body_proxy.rb:23:in `close'
+E, [2017-01-17T05:26:19.768787 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/body_proxy.rb:21:in `close'
+E, [2017-01-17T05:26:19.768810 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/lint.rb:748:in `close'
+E, [2017-01-17T05:26:19.768832 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/body_proxy.rb:21:in `close'
+E, [2017-01-17T05:26:19.768855 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:576:in `process_client'
+E, [2017-01-17T05:26:19.768916 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2017-01-17T05:26:19.768946 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2017-01-17T05:26:19.768970 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:132:in `start'
+E, [2017-01-17T05:26:19.768992 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/bin/unicorn:126:in `<top (required)>'
+E, [2017-01-17T05:26:19.769015 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/unicorn:23:in `load'
+E, [2017-01-17T05:26:19.769056 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/unicorn:23:in `<main>'
+E, [2017-01-17T05:26:19.769084 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/ruby_executable_hooks:15:in `eval'
+E, [2017-01-17T05:26:19.769107 #1127] ERROR -- : /home/webapp/.rvm/gems/ruby-2.3.0/bin/ruby_executable_hooks:15:in `<main>'
+Mysql2::Error: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/mysql2-0.4.5/lib/mysql2/client.rb:89:in `connect'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/mysql2-0.4.5/lib/mysql2/client.rb:89:in `initialize'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/mysql2_adapter.rb:25:in `new'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/mysql2_adapter.rb:25:in `mysql2_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:721:in `new_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:765:in `checkout_new_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:744:in `try_to_checkout_new_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:705:in `acquire_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:501:in `checkout'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:364:in `connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_adapters/abstract/connection_pool.rb:875:in `retrieve_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_handling.rb:128:in `retrieve_connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/connection_handling.rb:91:in `connection'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activerecord-5.0.0.1/lib/active_record/query_cache.rb:47:in `block in install_executor_hooks'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:396:in `instance_exec'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:396:in `block in make_lambda'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:169:in `block (2 levels) in halting'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:547:in `block (2 levels) in default_terminator'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:546:in `catch'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:546:in `block in default_terminator'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:170:in `block in halting'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `block in call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `each'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:454:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:101:in `__run_callbacks__'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:750:in `_run_complete_callbacks'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/callbacks.rb:90:in `run_callbacks'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:107:in `complete!'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:64:in `ensure in block in run!'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:64:in `block in run!'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:58:in `tap'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/activesupport-5.0.0.1/lib/active_support/execution_wrapper.rb:58:in `run!'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/executor.rb:10:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.0.1/lib/action_dispatch/middleware/static.rb:136:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/sendfile.rb:111:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/railties-5.0.0.1/lib/rails/engine.rb:522:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/tempfile_reaper.rb:15:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/lint.rb:49:in `_call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/lint.rb:37:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/show_exceptions.rb:23:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/common_logger.rb:33:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/chunked.rb:54:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/rack-2.0.1/lib/rack/content_length.rb:15:in `call'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:562:in `process_client'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:658:in `worker_loop'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/lib/unicorn/http_server.rb:132:in `start'
+	/home/webapp/.rvm/gems/ruby-2.3.0/gems/unicorn-5.2.0/bin/unicorn:126:in `<top (required)>'
+	/home/webapp/.rvm/gems/ruby-2.3.0/bin/unicorn:23:in `load'
+	/home/webapp/.rvm/gems/ruby-2.3.0/bin/unicorn:23:in `<main>'
+	/home/webapp/.rvm/gems/ruby-2.3.0/bin/ruby_executable_hooks:15:in `eval'
+	/home/webapp/.rvm/gems/ruby-2.3.0/bin/ruby_executable_hooks:15:in `<main>'
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:05:26:30 -0500] "GET /static_pages/home HTTP/1.0" 500 140726 0.0868
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:05:34:56 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.1566
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:05:35:17 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.1110
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:05:37:22 -0500] "GET /static_pages/home HTTP/1.0" 304 - 0.0184
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:05:37:27 -0500] "GET /static_pages/help HTTP/1.0" 200 - 0.0275
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:05:37:44 -0500] "GET /static_pages/help HTTP/1.0" 200 - 0.0422
+93.158.152.26 - - [17/Jan/2017:06:07:53 -0500] "GET /robots.txt HTTP/1.0" 200 202 0.0127
+93.158.152.26 - - [17/Jan/2017:06:07:57 -0500] "GET / HTTP/1.0" 200 - 0.0758
+180.76.15.30 - - [17/Jan/2017:06:39:16 -0500] "GET /robots.txt HTTP/1.0" 200 202 0.0284
+180.76.15.138 - - [17/Jan/2017:06:39:16 -0500] "GET /robots.txt HTTP/1.0" 200 202 0.0276
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:06:41:26 -0500] "GET /static_pages/about HTTP/1.0" 200 - 0.0478
+180.76.15.16 - - [17/Jan/2017:06:41:29 -0500] "GET / HTTP/1.0" 200 - 0.0552
+E, [2017-01-17T06:45:14.273977 #1115] ERROR -- : reaped #<Process::Status: pid 1124 SIGKILL (signal 9)> worker=0
+I, [2017-01-17T06:45:14.280818 #1115]  INFO -- : worker=0 spawning...
+I, [2017-01-17T06:45:14.303657 #2778]  INFO -- : worker=0 spawned pid=2778
+I, [2017-01-17T06:45:14.304366 #2778]  INFO -- : worker=0 ready
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:06:49:42 -0500] "GET /static_pages/about HTTP/1.0" 304 - 0.0668
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:06:49:45 -0500] "GET /static_pages/about HTTP/1.0" 304 - 1.3829
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:06:49:51 -0500] "GET /static_pages/home HTTP/1.0" 304 - 0.0481
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:03:05 -0500] "GET /static_pages/home HTTP/1.0" 304 - 0.0746
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:05:38 -0500] "GET /static_pages/home HTTP/1.0" 304 - 0.1191
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:05:44 -0500] "GET /static_pages/help HTTP/1.0" 304 - 0.4165
+E, [2017-01-17T07:05:49.233540 #1115] ERROR -- : reaped #<Process::Status: pid 1127 SIGKILL (signal 9)> worker=1
+I, [2017-01-17T07:05:49.235760 #1115]  INFO -- : worker=1 spawning...
+I, [2017-01-17T07:05:49.249307 #2987]  INFO -- : worker=1 spawned pid=2987
+I, [2017-01-17T07:05:49.249661 #2987]  INFO -- : worker=1 ready
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:05:49 -0500] "GET /static_pages/about HTTP/1.0" 304 - 0.0445
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:38 -0500] "GET /static_pages/about HTTP/1.0" 200 - 0.8726
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:40 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 1.0646
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:17:40 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0073
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:17:40 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0077
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:17:40 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0055
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:40 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0076
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:17:40 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0061
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:17:40 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0072
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:17:40 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0067
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:40 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0357
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:40 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0086
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:48 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.2254
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:17:54 -0500] "GET /static_pages/help HTTP/1.0" 200 - 0.0620
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:19:57 -0500] "GET /static_pages/help HTTP/1.0" 200 - 0.1839
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:20:03 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.2697
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:45 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.2483
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:46 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0716
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:46 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0405
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:46 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0309
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:46 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0218
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:46 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0077
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:46 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0112
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:46 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0111
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:46 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0090
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:46 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0063
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:46 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0240
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /static_pages/home HTTP/1.0" 200 - 0.0678
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0052
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0079
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0051
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0074
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:48 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0050
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0128
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0152
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:23:48 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0174
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:48 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0106
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:48 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0166
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:54 -0500] "GET / HTTP/1.0" 200 - 0.0788
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:23:59 -0500] "GET / HTTP/1.0" 200 - 0.0852
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET / HTTP/1.0" 200 - 0.0633
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0270
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0052
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:24:42 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0056
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:24:42 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0052
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:24:42 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0160
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0170
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:24:42 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0139
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0134
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0098
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:24:42 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0220
+178.130.37.197 - - [17/Jan/2017:07:29:20 -0500] "GET / HTTP/1.0" 200 - 0.1145
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:27 -0500] "GET / HTTP/1.0" 200 - 0.0541
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:27 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0102
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:27 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0054
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:31:27 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0059
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:27 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0113
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:27 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0120
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:27 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0150
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:31:27 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0128
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:31:28 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0213
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:31:28 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0166
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:31:28 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0158
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:32:40 -0500] "GET / HTTP/1.0" 200 - 0.0822
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:32:40 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0125
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:32:40 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0067
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:40 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0070
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:32:40 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0068
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:40 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0089
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:40 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0058
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:40 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0068
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:40 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0076
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:40 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0083
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:32:40 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0080
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:43 -0500] "GET / HTTP/1.0" 200 - 0.0929
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:32:47 -0500] "GET /home HTTP/1.0" 404 22360 0.3127
+E, [2017-01-17T07:45:47.838941 #1115] ERROR -- : reaped #<Process::Status: pid 2778 SIGKILL (signal 9)> worker=0
+I, [2017-01-17T07:45:47.844175 #1115]  INFO -- : worker=0 spawning...
+I, [2017-01-17T07:45:47.860283 #3435]  INFO -- : worker=0 spawned pid=3435
+I, [2017-01-17T07:45:47.861087 #3435]  INFO -- : worker=0 ready
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:48:36 -0500] "GET / HTTP/1.0" 200 - 0.1097
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:48:37 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.7979
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:48:37 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0125
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:48:37 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0180
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:48:37 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0118
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:48:37 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0129
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:48:37 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0105
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:48:37 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0119
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:48:37 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0124
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:48:38 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0671
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:48:38 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0166
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:23 -0500] "GET / HTTP/1.0" 200 - 0.2729
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET / HTTP/1.0" 200 - 0.1919
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET /scaffolds.self-65b1974790523dcc84d7aacd51d935f5582cff90401c8291a076d000a85c5dd3.css?body=1 HTTP/1.0" 304 - 0.0602
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET /static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1 HTTP/1.0" 304 - 0.0134
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET /application.self-af04b226fd7202dfc532ce7aedb95a0128277937e90d3b3a3d35e1cce9e16886.css?body=1 HTTP/1.0" 304 - 0.0160
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:49:41 -0500] "GET /jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1 HTTP/1.0" 304 - 0.0118
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:49:41 -0500] "GET /jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1 HTTP/1.0" 304 - 0.0185
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:49:41 -0500] "GET /turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1 HTTP/1.0" 304 - 0.0133
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET /action_cable.self-1641ec3e8ea24ed63601e86efcca7f9266e09f390e82199d56aa7e4bd50e1aa9.js?body=1 HTTP/1.0" 304 - 0.0240
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET /cable.self-6e0514260c1aa76eaf252412ce74e63f68819fd19bf740595f592c5ba4c36537.js?body=1 HTTP/1.0" 304 - 0.0114
+172.17.96.157, 137.132.250.8 - - [17/Jan/2017:07:49:41 -0500] "GET /static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1 HTTP/1.0" 304 - 0.0148
+172.17.96.157, 137.132.3.12 - - [17/Jan/2017:07:49:41 -0500] "GET /application.self-b89234cf2659d7fedea75bca0b8d231ad7dfc2f3f57fcbaf5f44ed9dc384137b.js?body=1 HTTP/1.0" 304 - 0.0255

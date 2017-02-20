@@ -1,8 +1,9 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'rails',        '5.0.0.1'
 gem 'puma',         '3.4.0'
 gem 'unicorn',      '5.2.0'
+gem 'bootstrap-sass', '3.3.7'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.0.0'
 gem 'coffee-rails', '4.2.1'
@@ -10,6 +11,7 @@ gem 'jquery-rails', '4.1.1'
 gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.4.1'
 gem 'mysql2',       '~> 0.4.2'
+gem 'inline_svg',   '0.10.0'
 
 group :development, :test do
   gem 'byebug',  '9.0.0', platform: :mri
